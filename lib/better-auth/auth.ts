@@ -49,4 +49,15 @@ export const getAuth = async () => {
     return authInstance;
 }
 
-export const auth = await getAuth();
+// Use lazy initialization to avoid connecting to MongoDB at build time (SSG).
+// The auth instance is created on first access at runtime.
+let _authPromise: Promise<ReturnType<typeof betterAuth>> | null = null;
+
+export const auth = {
+    get current() {
+        if (!_authPromise) {
+            _authPromise = getAuth();
+        }
+        return _authPromise;
+    }
+};
