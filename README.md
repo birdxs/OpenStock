@@ -1,15 +1,11 @@
-<div align="center">
-  Checkout new amazing projects also, <a href="github.com/open-dev-society/openreadme" target="_blank">OpenReadme </a> is live
-</div>  
-<a href="https://hellogithub.com/repository/Open-Dev-Society/OpenStock" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=5c4337a9e2dd4a8ba8aba87a88f04b8b&claim_uid=07HezcXv9puSGKQ&theme=neutral" alt="Featured｜HelloGitHub" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-<a href="https://peerlist.io/ravixalgorithm/project/openstock" target="_blank" rel="noreferrer">
-				<img
-					src="https://peerlist.io/api/v1/projects/embed/PRJH8OED7MBL9MGB9HRMKAKLM66KNN?showUpvote=true&theme=light"
-					alt="OpenStock"
-					style="width: auto; height: 54px;"
-				/>
-			</a>
+
+<a href="https://trendshift.io/repositories/15728?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-15728" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/15728" alt="Open-Dev-Society%2FOpenStock | Trendshift" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/15728?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-15728" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/15728/daily?language=TypeScript" alt="Open-Dev-Society%2FOpenStock | Trendshift" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/15728?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-15728" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/15728/weekly?language=TypeScript" alt="Open-Dev-Society%2FOpenStock | Trendshift" width="250" height="55"/></a>
+
+<a href="https://trendshift.io/repositories/15728?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-15728" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/15728/monthly?language=TypeScript" alt="Open-Dev-Society%2FOpenStock | Trendshift" width="250" height="55"/></a>
  <a href="https://www.star-history.com/open-dev-society/openstock"><img src="https://api.star-history.com/badge?repo=Open-Dev-Society/OpenStock" alt="Star History Rank" /></a>
+ 
 <div align="center">
   <br />
   <a href="#" target="_blank">
