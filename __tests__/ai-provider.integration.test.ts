@@ -10,7 +10,7 @@ import { callAIProvider } from "@/lib/ai-provider";
 describe.skipIf(!process.env.MINIMAX_API_KEY)(
   "MiniMax integration",
   () => {
-    it("generates a response from MiniMax M2.7", async () => {
+    it("generates a response from MiniMax M3", async () => {
       const result = await callAIProvider(
         "Reply with exactly: MINIMAX_OK",
         "minimax"

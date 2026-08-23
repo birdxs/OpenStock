@@ -29,7 +29,7 @@ describe("getProviderConfig", () => {
     const config = getProviderConfig("minimax");
     expect(config.name).toBe("minimax");
     expect(config.baseUrl).toBe("https://api.minimax.io/v1");
-    expect(config.model).toBe("MiniMax-M2.7");
+    expect(config.model).toBe("MiniMax-M3");
     expect(config.apiKey).toBe("test-key");
   });
 
@@ -176,7 +176,7 @@ describe("callAIProvider", () => {
       "Bearer test-minimax-key"
     );
     const body = JSON.parse(options.body);
-    expect(body.model).toBe("MiniMax-M2.7");
+    expect(body.model).toBe("MiniMax-M3");
     expect(body.messages[0].content).toBe("test prompt");
     expect(body.temperature).toBe(0.7);
   });
